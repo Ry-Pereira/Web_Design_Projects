@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "msedge",
+      "request": "launch",
+      "name": "Open lyrics.html",
+      "url": "file:///c:/Users/ryant/OneDrive/Documents/GitHub/Web_Design_Projects/keshi_song_lyrics/lyrics.html",
+      "runtimeExecutable": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+    }
+  ]
+}
